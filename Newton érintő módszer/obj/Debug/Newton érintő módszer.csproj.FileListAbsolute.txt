@@ -1,0 +1,10 @@
+O:\C# progik\Newton érintő módszer\Newton érintő módszer\bin\Debug\Newton érintő módszer.exe
+O:\C# progik\Newton érintő módszer\Newton érintő módszer\bin\Debug\Newton érintő módszer.pdb
+O:\C# progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\ResolveAssemblyReference.cache
+O:\C# progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\Newton érintő módszer.exe
+O:\C# progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\Newton érintő módszer.pdb
+F:\Users\Alex\Documents\C# Progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\Newton érintő módszer.exe
+F:\Users\Alex\Documents\C# Progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\Newton érintő módszer.pdb
+F:\Users\Alex\Documents\C# Progik\Newton érintő módszer\Newton érintő módszer\bin\Debug\Newton érintő módszer.exe
+F:\Users\Alex\Documents\C# Progik\Newton érintő módszer\Newton érintő módszer\bin\Debug\Newton érintő módszer.pdb
+F:\Users\Alex\Documents\C# Progik\Newton érintő módszer\Newton érintő módszer\obj\Debug\ResolveAssemblyReference.cache
